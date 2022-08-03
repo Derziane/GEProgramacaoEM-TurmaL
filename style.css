@@ -1,17 +1,19 @@
 
 body{
-background-color: lightblue;
+background-color: #7A1507;
 }
 
-
+header, footer {
+background-color:#FB745F;
+}
 
 h3{
 	text-align: center;
-	color:darkblue;
+	color:#FBF0FF;
 	font-size: 25px;
 }
 b{
-color: brown;
+color: #FBF014;
 font-size: 20px;
 }
 
