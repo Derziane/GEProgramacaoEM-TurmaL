@@ -1,7 +1,10 @@
 
 body{
 background-color: #7A1507;
+color: white;
+font-size: 20px;
 }
+
 
 header, footer {
 background-color:#FB745F;
@@ -9,8 +12,8 @@ background-color:#FB745F;
 
 h3{
 	text-align: center;
-	color:#FBF0FF;
-	font-size: 25px;
+	color:#FAAC14;
+	font-size: 50px;
 }
 b{
 color: #FBF014;
