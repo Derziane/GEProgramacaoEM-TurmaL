@@ -2,7 +2,7 @@
 body{
 background-color: #7A1507;
 color: white;
-font-size: 20px;
+font-size: 30px;
 }
 
 
@@ -27,12 +27,12 @@ h3{
 }
 
 #paragrafodiferente{
-	color: lightblue;
+	color: lightgreen;
 }
 
 b{
 color: #FBF014;
-font-size: 20px;
+font-size: 40px;
 }
 
 
