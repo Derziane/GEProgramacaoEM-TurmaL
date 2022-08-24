@@ -13,7 +13,7 @@ background-color:#FB745F;
 #imagemprincipal{
 width: 100;
 height: 400;
-border: 8px solid yellow;
+border: 15px solid yellow;
 padding: 20px;
 margin: 20px;
 }
@@ -40,10 +40,10 @@ font-size: 40px;
 }
 
 .momentos {
-background-color: lightbrown;
-padding: 10px;
-margin: 30px;
-border: yellow solid 2px;
+	background-color: lightbrown;
+	padding: 10px;
+	margin: 01px;
+	border: white solid 08px;
 }
 
 .imagemlateral {
