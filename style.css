@@ -35,4 +35,31 @@ color: #FBF014;
 font-size: 40px;
 }
 
+i {
+font-size: 40px;
+}
 
+.momentos {
+background-color: lightbrown;
+padding: 10px;
+margin: 30px;
+border: yellow solid 2px;
+}
+
+.imagemlateral {
+	display: inline-block;
+	width: 15%;
+	height: inherit;
+	margin: 05px;
+}
+.lista {
+	display: inline-block;
+	width: 15%;
+	height: inherit;
+	vertical-align: top;
+	font-size: 20px;	
+}
+
+li::marker {
+	content: "✔";
+}
