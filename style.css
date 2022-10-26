@@ -64,6 +64,6 @@ li::marker {
 	content: "✔";
 }
 
-nav li {
+.nav li {
 	list-style:none;
 }
