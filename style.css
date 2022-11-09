@@ -60,10 +60,7 @@ i {
 	font-size: 20px;	
 }
 
-li::marker {
-	content: "✔";
-}
-
 nav li {
 	list-style:none;
+	display: inline;
 }
